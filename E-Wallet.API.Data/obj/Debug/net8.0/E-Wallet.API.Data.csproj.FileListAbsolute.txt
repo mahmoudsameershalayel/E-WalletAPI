@@ -1,0 +1,14 @@
+D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.deps.json
+D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.runtimeconfig.json
+D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.dll
+D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.pdb
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.csproj.AssemblyReference.cache
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfoInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfo.cs
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.csproj.CoreCompileInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.dll
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\refint\E-Wallet.API.Data.dll
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.pdb
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.genruntimeconfig.cache
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\ref\E-Wallet.API.Data.dll

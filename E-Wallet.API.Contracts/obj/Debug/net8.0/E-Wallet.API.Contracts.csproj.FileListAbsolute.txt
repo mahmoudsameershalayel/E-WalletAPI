@@ -1,0 +1,15 @@
+D:\E-WalletAPI\E-Wallet.API.Contracts\bin\Debug\net8.0\E-Wallet.API.Contracts.deps.json
+D:\E-WalletAPI\E-Wallet.API.Contracts\bin\Debug\net8.0\E-Wallet.API.Contracts.dll
+D:\E-WalletAPI\E-Wallet.API.Contracts\bin\Debug\net8.0\E-Wallet.API.Contracts.pdb
+D:\E-WalletAPI\E-Wallet.API.Contracts\bin\Debug\net8.0\E-Wallet.API.Data.dll
+D:\E-WalletAPI\E-Wallet.API.Contracts\bin\Debug\net8.0\E-Wallet.API.Data.pdb
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.csproj.AssemblyReference.cache
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.AssemblyInfoInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.AssemblyInfo.cs
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.csproj.CoreCompileInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.463A2744.Up2Date
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.dll
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\refint\E-Wallet.API.Contracts.dll
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.pdb
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\ref\E-Wallet.API.Contracts.dll

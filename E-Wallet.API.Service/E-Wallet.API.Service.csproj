@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>E_Wallet.API.Service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-Wallet.API.Contracts\E-Wallet.API.Contracts.csproj" />
+    <ProjectReference Include="..\E-Wallet.API.Data\E-Wallet.API.Data.csproj" />
+    <ProjectReference Include="..\E-Wallet.API.Infrastructure\E-Wallet.API.Infrastructure.csproj" />
+    <ProjectReference Include="..\E-Wallet.API.Service.Contracts\E-Wallet.API.Service.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
