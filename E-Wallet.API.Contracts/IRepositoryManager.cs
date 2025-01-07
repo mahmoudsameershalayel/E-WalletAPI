@@ -1,4 +1,6 @@
 ﻿using E_Wallet.API.Contracts.ApplicationUserRepositories;
+using E_Wallet.API.Contracts.PaymentRepositories;
+using E_Wallet.API.Contracts.TransactionRepositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -11,6 +13,8 @@ namespace E_Wallet.API.Contracts
     public interface IRepositoryManager
     {
         IApplicationUserRepository ApplicationUser { get; }
+        IPaymentRepository PaymentRepository { get; }
+        ITransactionRepository TransactionRepository { get; }
         Task SaveAsync();
     }
 }

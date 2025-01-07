@@ -1,5 +1,5 @@
 ﻿using E_Wallet.API.Data.DBEntities;
-using E_Wallet.API.Infrastructure.DTOs.ApplicationUserDTOs;
+using E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;

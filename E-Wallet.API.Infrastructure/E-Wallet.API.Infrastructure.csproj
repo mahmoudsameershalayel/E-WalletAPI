@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\E-Wallet.API.Data\E-Wallet.API.Data.csproj" />
+    <ProjectReference Include="..\E-Wallet.API.UseCases\E-Wallet.API.UseCases.csproj" />
   </ItemGroup>
 
 </Project>

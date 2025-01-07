@@ -1,6 +1,6 @@
 ﻿using E_Wallet.API.Data.DBEntities;
-using E_Wallet.API.Infrastructure.DTOs.ApplicationUserDTOs;
-using E_Wallet.API.Infrastructure.DTOs.AuthDTOs;
+using E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs;
+using E_Wallet.API.UseCases.DTOs.AuthDTOs;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;

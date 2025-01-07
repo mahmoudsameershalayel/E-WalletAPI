@@ -3,11 +3,9 @@ D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.dll
-D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Infrastructure.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.pdb
-D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Infrastructure.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.csproj.AssemblyReference.cache
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +17,6 @@ D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\refint\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\ref\E-Wallet.API.Service.dll
+D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.sourcelink.json
+D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.dll
+D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.pdb

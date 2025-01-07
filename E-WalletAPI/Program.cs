@@ -1,7 +1,12 @@
+using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using E_Wallet.API.Data;
 using E_Wallet.API.Infrastructure.Helpers;
+using E_Wallet.API.UseCases.Payments.Commands.CreatePaymentCommand;
 using E_WalletAPI.Extensions;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +25,10 @@ builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureSwagger();
 builder.Services.AddControllers();
 
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(
+    typeof(Program).Assembly,                  // Assembly A (where Program.cs is located)
+    typeof(CreatePaymentCommand).Assembly
+)); 
 
 
 //Configure services from serviceExtensions
@@ -36,11 +45,11 @@ builder.Services.AddSwaggerGen();
 //Add Auto Mapper Service
 builder.Services.AddAutoMapper(typeof(ApplicationProfile).Assembly);
 
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.ConfigureExceptionHandler();
+
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {

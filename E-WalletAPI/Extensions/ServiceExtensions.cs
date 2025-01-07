@@ -1,6 +1,7 @@
 ﻿using E_Wallet.API.Contracts;
 using E_Wallet.API.Data;
 using E_Wallet.API.Data.DBEntities;
+using E_Wallet.API.Infrastructure.Helpers;
 using E_Wallet.API.Service;
 using E_Wallet.API.Service.Contracts;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -111,6 +112,9 @@ namespace E_WalletAPI.Extensions
         public static void ConfigureServiceManager(this IServiceCollection services)
         {
             services.AddScoped<IServiceManager, ServiceManager>();
+        }
+        public static void AddInjectionApplication(this IServiceCollection services)
+        {
         }
     }
 }

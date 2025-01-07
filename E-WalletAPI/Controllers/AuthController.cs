@@ -1,5 +1,5 @@
-﻿using E_Wallet.API.Infrastructure.DTOs.ApplicationUserDTOs;
-using E_Wallet.API.Infrastructure.DTOs.AuthDTOs;
+﻿using E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs;
+using E_Wallet.API.UseCases.DTOs.AuthDTOs;
 using E_Wallet.API.Service.Contracts;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;

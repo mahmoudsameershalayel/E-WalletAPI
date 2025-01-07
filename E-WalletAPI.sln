@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-WalletAPI", "E-WalletAPI\E-WalletAPI.csproj", "{125375AF-C6BB-4E16-9907-3384E7351FBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-WalletAPI", "E-WalletAPI\E-WalletAPI.csproj", "{125375AF-C6BB-4E16-9907-3384E7351FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.Data", "E-Wallet.API.Data\E-Wallet.API.Data.csproj", "{4C168E78-9A06-45AA-9813-CAD6D3780811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Wallet.API.Data", "E-Wallet.API.Data\E-Wallet.API.Data.csproj", "{4C168E78-9A06-45AA-9813-CAD6D3780811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.Infrastructure", "E-Wallet.API.Infrastructure\E-Wallet.API.Infrastructure.csproj", "{C1827908-738F-4901-8976-BBCEC7D7208A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Wallet.API.Infrastructure", "E-Wallet.API.Infrastructure\E-Wallet.API.Infrastructure.csproj", "{C1827908-738F-4901-8976-BBCEC7D7208A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.Contracts", "E-Wallet.API.Contracts\E-Wallet.API.Contracts.csproj", "{677DA96F-46D6-46C0-BF6C-F338FD338184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Wallet.API.Contracts", "E-Wallet.API.Contracts\E-Wallet.API.Contracts.csproj", "{677DA96F-46D6-46C0-BF6C-F338FD338184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.Service", "E-Wallet.API.Service\E-Wallet.API.Service.csproj", "{32393984-FC39-4054-9A3A-48E644076DA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Wallet.API.Service", "E-Wallet.API.Service\E-Wallet.API.Service.csproj", "{32393984-FC39-4054-9A3A-48E644076DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.Service.Contracts", "E-Wallet.API.Service.Contracts\E-Wallet.API.Service.Contracts.csproj", "{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Wallet.API.Service.Contracts", "E-Wallet.API.Service.Contracts\E-Wallet.API.Service.Contracts.csproj", "{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Wallet.API.UseCases", "E-Wallet.API.UseCases\E-Wallet.API.UseCases.csproj", "{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

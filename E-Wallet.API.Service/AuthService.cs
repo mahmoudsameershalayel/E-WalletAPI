@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using E_Wallet.API.Contracts;
 using E_Wallet.API.Data.DBEntities;
-using E_Wallet.API.Infrastructure.DTOs.ApplicationUserDTOs;
-using E_Wallet.API.Infrastructure.DTOs.AuthDTOs;
 using E_Wallet.API.Service.Contracts;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
@@ -22,6 +20,8 @@ using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using E_Wallet.API.UseCases.DTOs.AuthDTOs;
+using E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs;
 
 namespace E_Wallet.API.Service
 {

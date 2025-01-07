@@ -12,3 +12,4 @@ D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\refint\E-Wallet.API.Data.dll
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.pdb
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.genruntimeconfig.cache
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\ref\E-Wallet.API.Data.dll
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.sourcelink.json

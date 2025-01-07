@@ -15,19 +15,19 @@ using System.Threading.Tasks;
 
 namespace E_Wallet.API.Service
 {
-    public class ServiceManager :IServiceManager
+    public class ServiceManager : IServiceManager
     {
         private readonly Lazy<IAuthService> _authenticationService;
         private readonly Lazy<IApplicationUserService> _applicationUserService;
-       
 
-        public ServiceManager(IRepositoryManager repositoryManager, IMapper mapper, IConfiguration configuration,UserManager<ApplicationUser> userManager , IServiceProvider serviceProvider, IHostEnvironment environment)
+
+        public ServiceManager(IRepositoryManager repositoryManager, IMapper mapper, IConfiguration configuration, UserManager<ApplicationUser> userManager, IServiceProvider serviceProvider, IHostEnvironment environment)
         {
-            _authenticationService = new Lazy<IAuthService>(() => new AuthService(mapper, userManager, repositoryManager , configuration));
-            _applicationUserService = new Lazy<IApplicationUserService>(() => new ApplicationUserService(repositoryManager, mapper , userManager));
+            _authenticationService = new Lazy<IAuthService>(() => new AuthService(mapper, userManager, repositoryManager, configuration));
+            _applicationUserService = new Lazy<IApplicationUserService>(() => new ApplicationUserService(repositoryManager, mapper, userManager));
         }
         public IAuthService AuthService => _authenticationService.Value;
         public IApplicationUserService ApplicationUserService => _applicationUserService.Value;
-       
+
     }
 }

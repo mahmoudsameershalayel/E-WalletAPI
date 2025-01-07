@@ -24,6 +24,7 @@
     <ProjectReference Include="..\E-Wallet.API.Infrastructure\E-Wallet.API.Infrastructure.csproj" />
     <ProjectReference Include="..\E-Wallet.API.Service.Contracts\E-Wallet.API.Service.Contracts.csproj" />
     <ProjectReference Include="..\E-Wallet.API.Service\E-Wallet.API.Service.csproj" />
+    <ProjectReference Include="..\E-Wallet.API.UseCases\E-Wallet.API.UseCases.csproj" />
   </ItemGroup>
 
 </Project>

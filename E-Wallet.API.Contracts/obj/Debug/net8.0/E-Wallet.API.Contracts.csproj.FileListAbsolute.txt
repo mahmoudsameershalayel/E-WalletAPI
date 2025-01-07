@@ -13,3 +13,4 @@ D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.dl
 D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\refint\E-Wallet.API.Contracts.dll
 D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.pdb
 D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\ref\E-Wallet.API.Contracts.dll
+D:\E-WalletAPI\E-Wallet.API.Contracts\obj\Debug\net8.0\E-Wallet.API.Contracts.sourcelink.json

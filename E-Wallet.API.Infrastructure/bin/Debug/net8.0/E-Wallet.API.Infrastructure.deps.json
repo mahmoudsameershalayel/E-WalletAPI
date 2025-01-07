@@ -15,7 +15,8 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.AspNetCore.Routing": "2.2.2",
           "Microsoft.Extensions.Hosting": "8.0.1",
-          "Microsoft.Extensions.Hosting.Abstractions": "8.0.1"
+          "Microsoft.Extensions.Hosting.Abstractions": "8.0.1",
+          "E-Wallet.API.UseCases": "1.0.0.0"
         },
         "runtime": {
           "E-Wallet.API.Infrastructure.dll": {}
@@ -1674,6 +1675,22 @@
         "runtime": {
           "E-Wallet.API.Data.dll": {}
         }
+      },
+      "E-Wallet.API.UseCases/1.0.0.0": {
+        "runtime": {
+          "E-Wallet.API.UseCases.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "E-Wallet.API.Contracts/1.0.0.0": {
+        "runtime": {
+          "E-Wallet.API.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2707,6 +2724,16 @@
     },
     "E-Wallet.API.Data/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E-Wallet.API.UseCases/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E-Wallet.API.Contracts/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
