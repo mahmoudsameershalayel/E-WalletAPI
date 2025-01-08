@@ -4,6 +4,69 @@
     "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj": {}
   },
   "projects": {
+    "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+        "projectName": "E-Wallet.API.Contracts",
+        "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Users\\DELL\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -21,8 +84,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -114,14 +176,14 @@
         }
       }
     },
-    "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj": {
+    "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj",
-        "projectName": "E-Wallet.API.Infrastructure",
-        "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj",
+        "projectUniqueName": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
+        "projectName": "E-Wallet.API.Service.Contracts",
+        "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\obj\\",
+        "outputPath": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,8 +193,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -140,6 +201,72 @@
             "projectReferences": {
               "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
+              },
+              "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj",
+        "projectName": "E-Wallet.API.UseCases",
+        "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Users\\DELL\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj"
               }
             }
           }
@@ -163,98 +290,11 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
-            "Microsoft.AspNetCore.Http.Abstractions": {
+            "MediatR": {
               "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.5, )"
-            },
-            "Microsoft.AspNetCore.Routing": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
-            "Microsoft.Extensions.Hosting": {
-              "target": "Package",
-              "version": "[8.0.1, )"
-            },
-            "Microsoft.Extensions.Hosting.Abstractions": {
-              "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[12.4.1, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
-        "projectName": "E-Wallet.API.Service.Contracts",
-        "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
-                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
-              },
-              "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj": {
-                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

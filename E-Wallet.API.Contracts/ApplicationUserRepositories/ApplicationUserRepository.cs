@@ -16,18 +16,7 @@ namespace E_Wallet.API.Contracts.ApplicationUserRepositories
         }
         public async Task<IEnumerable<Customer>> GetAllCustomersAsync() => await FindAll().Include(c => c.ApplicationUser).ToListAsync();
         public async Task<Customer> GetCustomerByIdAsync(int id) => await FindByCondition(x => x.Id == id).Include(x => x.ApplicationUser).SingleOrDefaultAsync();
-        public async Task<Customer> GetCustomerByApplicationUserId(string userId)
-        {
-            var customers = await GetAllCustomersAsync();
-            foreach (Customer cust in customers)
-            {
-                if (cust.ApplicationUserId.Equals(userId))
-                {
-                    return cust;
-                }
-            }
-            throw new Exception();
-        }
+        public async Task<Customer> GetCustomerByApplicationUserId(string userId) =>await FindByCondition(x => x.ApplicationUser.Id.Equals(userId)).Include(x => x.ApplicationUser).FirstOrDefaultAsync();
         public void UpdateCustomer(Customer customer) => Update(customer);
 
         public void CreateCustomer(Customer customer)

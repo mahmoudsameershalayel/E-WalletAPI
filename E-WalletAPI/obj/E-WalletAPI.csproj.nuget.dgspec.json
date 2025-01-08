@@ -21,8 +21,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -85,8 +84,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -195,8 +193,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -204,6 +201,9 @@
             "projectReferences": {
               "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
+              },
+              "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj"
               }
             }
           }
@@ -289,8 +289,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -299,8 +298,8 @@
               "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
               },
-              "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj": {
-                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj"
+              "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj"
               }
             }
           }
@@ -356,8 +355,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -369,11 +367,11 @@
               "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Data\\E-Wallet.API.Data.csproj"
               },
-              "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj": {
-                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj"
-              },
               "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj"
+              },
+              "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj": {
+                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj"
               }
             }
           }
@@ -429,8 +427,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -438,9 +435,6 @@
             "projectReferences": {
               "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj": {
                 "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj"
-              },
-              "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj": {
-                "projectPath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj"
               }
             }
           }
@@ -506,8 +500,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {

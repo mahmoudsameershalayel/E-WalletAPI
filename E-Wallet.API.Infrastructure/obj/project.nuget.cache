@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2KJyrOviOrKn2tBBxfF3dqd9SnFen4iiJm3Fs/t2SjCdyxbJgo3FxHzfW4TS1J/CyVuMiupZZgRDqUM47DpRGg==",
+  "dgSpecHash": "P8Gonfrp3UR2JO/b1VxFlJv6LsDLR0b1nM6X4eRkIzfwe7aJp62ZgFRy/rSOVXG06p22HiRNpTbyPBkhgeFKbg==",
   "success": true,
   "projectFilePath": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",

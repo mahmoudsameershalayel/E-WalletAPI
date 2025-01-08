@@ -1,0 +1,302 @@
+[
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "Authenticate",
+    "RelativePath": "E-WalletAPI/Auth/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_Wallet.API.UseCases.DTOs.AuthDTOs.UserForAuthDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "ChangePassword",
+    "RelativePath": "E-WalletAPI/Auth/ChangePassword/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_Wallet.API.UseCases.DTOs.AuthDTOs.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "DeleteAccount",
+    "RelativePath": "E-WalletAPI/Auth/DeleteAccount/{tenantId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "EditProfile",
+    "RelativePath": "E-WalletAPI/Auth/EditProfile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs.UpdateProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "E-WalletAPI/Auth/ForgotPassword/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_Wallet.API.UseCases.DTOs.AuthDTOs.ForgetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "GetProfile",
+    "RelativePath": "E-WalletAPI/Auth/GetProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.AuthController",
+    "Method": "RegisterUser",
+    "RelativePath": "E-WalletAPI/Auth/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "E_Wallet.API.UseCases.DTOs.AuthDTOs.UserForRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.PaymentController",
+    "Method": "CreatePaymentService",
+    "RelativePath": "E-WalletAPI/Payment/CreatePaymentService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.PaymentController",
+    "Method": "GetAllPaymentServices",
+    "RelativePath": "E-WalletAPI/Payment/GetAllPaymentServices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.PaymentController",
+    "Method": "GetPaymentById",
+    "RelativePath": "E-WalletAPI/Payment/GetPaymentById/{paymentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "PaymentById"
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.RechargePointController",
+    "Method": "CreateRechargePoint",
+    "RelativePath": "E-WalletAPI/RechargePoint/CreateRechargePoint",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "E_Wallet.API.UseCases.RechargePoints.Commands.CrateRechargePointCommand.CreateRechargePointCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.RechargePointController",
+    "Method": "GetAllRechargePoints",
+    "RelativePath": "E-WalletAPI/RechargePoint/GetAllRechargePoints",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.TokenController",
+    "Method": "Refresh",
+    "RelativePath": "E-WalletAPI/Token/Refresh/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenDto",
+        "Type": "E_Wallet.API.UseCases.DTOs.AuthDTOs.TokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.TransactionController",
+    "Method": "CreateTransaction",
+    "RelativePath": "E-WalletAPI/Transaction/CreateTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "WalletId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TransactionType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amount",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "RecipientWalletId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Details",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.WalletController",
+    "Method": "CreateMyWallet",
+    "RelativePath": "E-WalletAPI/Wallet/CreateMyWallet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currency",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.WalletController",
+    "Method": "CreateWalletAsAdmin",
+    "RelativePath": "E-WalletAPI/Wallet/CreateWalletAsAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "E_Wallet.API.UseCases.Wallets.Commands.CreateWalletCommand.CreateWalletCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.WalletController",
+    "Method": "GetAllWalletsAsync",
+    "RelativePath": "E-WalletAPI/Wallet/GetAllWallets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.WalletController",
+    "Method": "GetMyWallets",
+    "RelativePath": "E-WalletAPI/Wallet/GetMyWallets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_WalletAPI.Controllers.WalletController",
+    "Method": "GetWalletById",
+    "RelativePath": "E-WalletAPI/Wallet/GetWalletById/{walletId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "walletId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

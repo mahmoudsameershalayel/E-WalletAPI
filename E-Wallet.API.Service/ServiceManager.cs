@@ -21,7 +21,7 @@ namespace E_Wallet.API.Service
         private readonly Lazy<IApplicationUserService> _applicationUserService;
 
 
-        public ServiceManager(IRepositoryManager repositoryManager, IMapper mapper, IConfiguration configuration, UserManager<ApplicationUser> userManager, IServiceProvider serviceProvider, IHostEnvironment environment)
+        public ServiceManager(IRepositoryManager repositoryManager, IMapper mapper, IConfiguration configuration, UserManager<ApplicationUser> userManager, IServiceProvider serviceProvider, IHostingEnvironment environment)
         {
             _authenticationService = new Lazy<IAuthService>(() => new AuthService(mapper, userManager, repositoryManager, configuration));
             _applicationUserService = new Lazy<IApplicationUserService>(() => new ApplicationUserService(repositoryManager, mapper, userManager));

@@ -21,8 +21,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {
@@ -85,8 +84,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\DELL\\.nuget\\packages": {}
         },
         "frameworks": {
           "net8.0": {

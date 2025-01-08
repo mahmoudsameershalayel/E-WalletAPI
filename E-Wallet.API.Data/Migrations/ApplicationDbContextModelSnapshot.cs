@@ -133,7 +133,7 @@ namespace E_Wallet.API.Data.Migrations
                             Id = "02174cf0-9412-4cfe-afbf-59f706d72cf6",
                             AccessFailedCount = 0,
                             Address = "admin address",
-                            ConcurrencyStamp = "d42d5561-f683-400f-b145-3cbf059a64ba",
+                            ConcurrencyStamp = "19f7d9f4-b571-4211-8599-8aa03c7e3b43",
                             Email = "admin@admin.com",
                             EmailConfirmed = true,
                             FirstName = "admin",
@@ -143,11 +143,11 @@ namespace E_Wallet.API.Data.Migrations
                             LocationLong = "test",
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN_10",
-                            PasswordHash = "AQAAAAIAAYagAAAAEDpI1SxzR0NIiPzGjMrOZdPB712mG3iNSN1FEhnCC85vuLL5IfyZ5Q1Qa5ySGCw2wA==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEOWp04/gbatTwUELro0Pj7nmTN4vlFNzP0awgQukDNpKTWD+i29SLiBsH1gyJhLuHw==",
                             PhoneNumber = "1234567890",
                             PhoneNumberConfirmed = false,
                             RefreshTokenExpiryTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            SecurityStamp = "139df047-fb32-4fe3-a286-38024dced146",
+                            SecurityStamp = "295cfc48-887d-4448-af44-da7a4aa0620e",
                             TwoFactorEnabled = false,
                             UserName = "admin_10"
                         });
@@ -277,6 +277,9 @@ namespace E_Wallet.API.Data.Migrations
 
                     b.Property<DateTime?>("CreatedAt")
                         .HasColumnType("datetime2");
+
+                    b.Property<int?>("Currency")
+                        .HasColumnType("int");
 
                     b.Property<int?>("CustomerId")
                         .HasColumnType("int");

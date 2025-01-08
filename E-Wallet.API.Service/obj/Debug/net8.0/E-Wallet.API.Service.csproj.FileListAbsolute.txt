@@ -1,22 +1,44 @@
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.deps.json
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.AssemblyInfo.cs
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.sourcelink.json
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.7AC88E06.Up2Date
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\refint\E-Wallet.API.Service.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\ref\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.deps.json
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.dll
+D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.dll
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Contracts.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Data.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.Service.Contracts.pdb
+D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.csproj.AssemblyReference.cache
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.GeneratedMSBuildEditorConfig.editorconfig
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.AssemblyInfoInputs.cache
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.AssemblyInfo.cs
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.csproj.CoreCompileInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.sourcelink.json
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.7AC88E06.Up2Date
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\refint\E-Wallet.API.Service.dll
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.pdb
 D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\ref\E-Wallet.API.Service.dll
-D:\E-WalletAPI\E-Wallet.API.Service\obj\Debug\net8.0\E-Wallet.API.Service.sourcelink.json
-D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.dll
-D:\E-WalletAPI\E-Wallet.API.Service\bin\Debug\net8.0\E-Wallet.API.UseCases.pdb

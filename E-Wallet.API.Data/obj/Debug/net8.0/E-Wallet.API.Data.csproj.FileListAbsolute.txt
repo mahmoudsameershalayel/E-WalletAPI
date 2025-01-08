@@ -1,3 +1,18 @@
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.deps.json
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.runtimeconfig.json
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfo.cs
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.sourcelink.json
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\refint\E-Wallet.API.Data.dll
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.pdb
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.genruntimeconfig.cache
+C:\Users\ASUS ViVoBooK\Desktop\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\ref\E-Wallet.API.Data.dll
 D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.deps.json
 D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.runtimeconfig.json
 D:\E-WalletAPI\E-Wallet.API.Data\bin\Debug\net8.0\E-Wallet.API.Data.dll
@@ -7,9 +22,9 @@ D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.GeneratedMSB
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfoInputs.cache
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.AssemblyInfo.cs
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.csproj.CoreCompileInputs.cache
+D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.sourcelink.json
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.dll
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\refint\E-Wallet.API.Data.dll
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.pdb
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.genruntimeconfig.cache
 D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\ref\E-Wallet.API.Data.dll
-D:\E-WalletAPI\E-Wallet.API.Data\obj\Debug\net8.0\E-Wallet.API.Data.sourcelink.json

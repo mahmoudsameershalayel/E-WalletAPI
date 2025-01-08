@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E_Wallet.API.Contracts;
 using E_Wallet.API.Data.DBEntities;
+using E_Wallet.API.Data.Enums;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -28,9 +29,57 @@ namespace E_Wallet.API.UseCases.Transactions.Commands.CreateTransactionCommand
                 var transaction = _mapper.Map<Data.DBEntities.Transaction>(request);
                 _repositoryManager.TransactionRepository.CreateTransaction(transaction);
                 await _repositoryManager.SaveAsync();
-                response.Data = true;
-                response.IsSuccess = true;
-                response.Message = "The transaction Created Successfully";
+                switch (request.TransactionType)
+                {
+                    case (TransactionType.Transfer):
+                        var wallet = await _repositoryManager.WalletRepository.GetWalletByIdAsync(request.WalletId);
+                        var recipientWallet = await _repositoryManager.WalletRepository.GetWalletByIdAsync(request.RecipientWalletId);
+                        if (wallet.Balance < request.Amount)
+                        {
+                            response.Message = "The Balance in your wallet not enough to make transaction!!";
+                        }
+                        else if (!wallet.Currency.Equals(recipientWallet.Currency)) {
+                            response.Message = "The Currency of two wallets not same!!";
+                        }
+                        else
+                        {
+                            wallet.Balance -= request.Amount;
+                            recipientWallet.Balance += request.Amount;
+                            _repositoryManager.WalletRepository.UpdateWallet(wallet);
+                            _repositoryManager.WalletRepository.UpdateWallet(recipientWallet);
+                            await _repositoryManager.SaveAsync();
+                            response.IsSuccess = true;
+                            response.Data = true;
+                            response.Message = "The Transfer operation completed successfullt";
+                        }
+                        break;
+                    case (TransactionType.Payment):
+                        var wallet1 = await _repositoryManager.WalletRepository.GetWalletByIdAsync(request.WalletId);
+                        if (wallet1.Balance < request.Amount)
+                        {
+                            response.Message = "The Balance in your wallet not enough to make transaction!!";
+                        }
+                        else
+                        {
+                            wallet1.Balance -= request.Amount;
+                            _repositoryManager.WalletRepository.UpdateWallet(wallet1);
+                            await _repositoryManager.SaveAsync();
+                            response.IsSuccess = true;
+                            response.Data = true;
+                            response.Message = "The Payment operation completed successfullt";
+                        }
+                        break;
+                    case (TransactionType.Recharge):
+                        var recipientWallet1 = await _repositoryManager.WalletRepository.GetWalletByIdAsync(request.RecipientWalletId);
+                        recipientWallet1.Balance += request.Amount;
+                        _repositoryManager.WalletRepository.UpdateWallet(recipientWallet1);
+                        await _repositoryManager.SaveAsync();
+                        response.IsSuccess = true;
+                        response.Data = true;
+                        response.Message = "The Recharge operation completed successfullt";
+                        break;
+                }
+
             }
             catch (Exception ex)
             {

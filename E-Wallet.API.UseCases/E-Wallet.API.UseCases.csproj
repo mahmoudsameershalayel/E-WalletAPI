@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Transactions\Queries\" />
+    <Folder Include="Users\Commands\" />
   </ItemGroup>
 
 </Project>

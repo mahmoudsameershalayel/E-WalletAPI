@@ -1545,6 +1545,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "E-Wallet.API.Data": "1.0.0",
+          "E-Wallet.API.UseCases": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
@@ -1560,8 +1561,8 @@
         "dependencies": {
           "E-Wallet.API.Contracts": "1.0.0",
           "E-Wallet.API.Data": "1.0.0",
-          "E-Wallet.API.Infrastructure": "1.0.0",
-          "E-Wallet.API.Service.Contracts": "1.0.0"
+          "E-Wallet.API.Service.Contracts": "1.0.0",
+          "E-Wallet.API.UseCases": "1.0.0"
         },
         "runtime": {
           "E-Wallet.API.Service.dll": {}
@@ -1570,7 +1571,7 @@
       "E-Wallet.API.Service.Contracts/1.0.0": {
         "dependencies": {
           "E-Wallet.API.Data": "1.0.0",
-          "E-Wallet.API.Infrastructure": "1.0.0"
+          "E-Wallet.API.UseCases": "1.0.0"
         },
         "runtime": {
           "E-Wallet.API.Service.Contracts.dll": {}
@@ -1580,7 +1581,6 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "E-Wallet.API.Contracts": "1.0.0",
-          "E-Wallet.API.Infrastructure": "1.0.0",
           "MediatR": "12.4.1"
         },
         "runtime": {
