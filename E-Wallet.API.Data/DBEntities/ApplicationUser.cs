@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using E_Wallet.API.Data.Enums;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,13 +20,13 @@ namespace E_Wallet.API.Data.DBEntities
 
         public string? Address { get; set; }
         public bool IsActive { get; set; } = true;
-
         public string? LocationLong { get; set; }
-
         public string? LocationLat { get; set; }
+        public UserType userType { get; set; }
         public bool? IsBlocked { get; set; }
         public string? FCMToken { get; set; }
         public string? RefreshToken { get; set; }
         public DateTime RefreshTokenExpiryTime { get; set; }
+        public IEnumerable<Wallet> Wallets { get; set; } = new List<Wallet>();
     }
 }

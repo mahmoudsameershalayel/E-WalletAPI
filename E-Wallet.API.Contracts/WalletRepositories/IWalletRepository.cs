@@ -11,7 +11,7 @@ namespace E_Wallet.API.Contracts.WalletRepositories
     {
         public Task<IEnumerable<Wallet>> GetAllWalletsAsync();
         public Task<Wallet> GetWalletByIdAsync(int? id);
-        public Task<IEnumerable<Wallet>> GetWalletByCustomerId(int customerId);
+        public Task<IEnumerable<Wallet>> GetWalletsByApplicationUserId(string applicationUserId);
         public void CreateWallet(Wallet wallet);
         public void UpdateWallet(Wallet wallet);
         public void DeleteWallet(Wallet wallet);

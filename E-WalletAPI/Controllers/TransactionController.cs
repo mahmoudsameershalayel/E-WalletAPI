@@ -7,7 +7,6 @@ using E_Wallet.API.UseCases.Payments.Queries.GetPaymentByIdQuery;
 using E_Wallet.API.UseCases.Transactions.Commands.CreateTransactionCommand;
 using E_Wallet.API.UseCases.Users.Queries.GetCustomerByUserIdQuery;
 using E_Wallet.API.UseCases.Wallets.Queries.CheckCustomerWalletQuery;
-using E_Wallet.API.UseCases.Wallets.Queries.GetwalletByCustomerIdQuery;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -56,7 +55,25 @@ namespace E_WalletAPI.Controllers
             var currentUserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
             var result = await _mediator.Send(new CheckCustomerWalletQuery() { ApplicationUserId = currentUserId, WalletId = dto.YourWalletId });
             if (!result) return BadRequest("The wallet you try pay money from it NOT FOR YOU!!");
-            var response = await _mediator.Send(new CreateTransactionCommand() { WalletId = dto.YourWalletId, RecipientWalletId = null, TransactionType = TransactionType.Payment, Amount = dto.Amount, Details = dto.Details });
+            var response = await _mediator.Send(new CreateTransactionCommand() { WalletId = dto.YourWalletId, RecipientWalletId = dto.PaymentServiceWalletId, TransactionType = TransactionType.Payment, Amount = dto.Amount, Details = dto.Details });
+            if (response.IsSuccess)
+            {
+                return Ok(response);
+            }
+            return BadRequest(response);
+        }
+        /// <summary>
+        ///Make Recharge Transaction 
+        /// </summary>
+        [HttpPost]
+        [Authorize(Roles = "Customer")]
+
+        public async Task<IActionResult> RechargeMyWallet([FromForm] RechargeMyWalletDto dto)
+        {
+            var currentUserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            var result = await _mediator.Send(new CheckCustomerWalletQuery() { ApplicationUserId = currentUserId, WalletId = dto.YourWalletId });
+            if (!result) return BadRequest("The wallet you try recharge it NOT FOR YOU!!");
+            var response = await _mediator.Send(new CreateTransactionCommand() { WalletId = dto.RechargePointWalletId, RecipientWalletId = dto.YourWalletId, TransactionType = TransactionType.Payment, Amount = dto.Amount, Details = dto.Details });
             if (response.IsSuccess)
             {
                 return Ok(response);

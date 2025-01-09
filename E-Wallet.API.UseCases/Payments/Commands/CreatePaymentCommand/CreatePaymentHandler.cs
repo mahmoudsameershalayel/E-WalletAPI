@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Azure.Core;
 using E_Wallet.API.Contracts;
 using E_Wallet.API.Data.DBEntities;
 using MediatR;
@@ -19,12 +20,14 @@ namespace E_Wallet.API.UseCases.Payments.Commands.CreatePaymentCommand
             _repositoryManager = repositoryManager;
             _mapper = mapper;
         }
-        public async Task<BaseResponse<bool>> Handle(CreatePaymentCommand command, CancellationToken collectionToken)
+        public async Task<BaseResponse<bool>> Handle(CreatePaymentCommand request, CancellationToken collectionToken)
         {
             var response = new BaseResponse<bool>();
             try
             {
-                var payment = _mapper.Map<Payment>(command);
+                var payment = _mapper.Map<Payment>(request);
+                var paymentUser = await _repositoryManager.ApplicationUser.CreateApplicationUserAsPaymentService(request.Email, request.UserName, request.Password);
+                payment.ApplicationUserId = paymentUser.Id;
                 _repositoryManager.PaymentRepository.CreatePayment(payment);
                 await _repositoryManager.SaveAsync();
                 response.Data = true;

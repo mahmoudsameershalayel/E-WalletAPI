@@ -1,9 +1,10 @@
 ﻿using E_Wallet.API.Data.Enums;
+using E_Wallet.API.UseCases.Users.Queries.CheckUserTypeQuery;
 using E_Wallet.API.UseCases.Users.Queries.GetCustomerByUserIdQuery;
 using E_Wallet.API.UseCases.Wallets.Commands.CreateWalletCommand;
 using E_Wallet.API.UseCases.Wallets.Queries.GetAllWalletsQuery;
-using E_Wallet.API.UseCases.Wallets.Queries.GetwalletByCustomerIdQuery;
 using E_Wallet.API.UseCases.Wallets.Queries.GetWalletByIdQuery;
+using E_Wallet.API.UseCases.Wallets.Queries.GetWalletsByApplicationUserIdQuery;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -28,8 +29,7 @@ namespace E_WalletAPI.Controllers
         public async Task<IActionResult> CreateMyWallet(CurrencyType currency)
         {
             var currentUserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            var customer = await _mediator.Send(new GetCustomerByUserIdQuery() { ApplicationUserId = currentUserId });
-            return Ok(await _mediator.Send(new CreateWalletCommand() { CustomerId = customer.Id , Currency = currency }));
+            return Ok(await _mediator.Send(new CreateWalletCommand() { ApplicationUserId = currentUserId, Currency = currency }));
         }
         /// <summary>
         ///Get My Wallets - CUSTOMER ROLE 
@@ -39,8 +39,7 @@ namespace E_WalletAPI.Controllers
         public async Task<IActionResult> GetMyWallets()
         {
             var currentUserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-            var customer = await _mediator.Send(new GetCustomerByUserIdQuery() { ApplicationUserId = currentUserId });
-            return Ok(await _mediator.Send(new GetWalletByCustomerIdQuery() { CustomerId = customer.Id }));
+            return Ok(await _mediator.Send(new GetWalletByApplicationUserIdQuery() { ApplicationUserId = currentUserId }));
         }
 
         /// <summary>

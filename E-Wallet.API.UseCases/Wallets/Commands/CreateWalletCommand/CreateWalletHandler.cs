@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E_Wallet.API.Contracts;
 using E_Wallet.API.Data.DBEntities;
+using E_Wallet.API.Data.Enums;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -15,7 +16,7 @@ namespace E_Wallet.API.UseCases.Wallets.Commands.CreateWalletCommand
     {
         private readonly IRepositoryManager _repositoryManager;
         private readonly IMapper _mapper;
-        public CreateWalletHandler(IRepositoryManager repositoryManager , IMapper mapper)
+        public CreateWalletHandler(IRepositoryManager repositoryManager, IMapper mapper)
         {
             _repositoryManager = repositoryManager;
             _mapper = mapper;
@@ -26,6 +27,20 @@ namespace E_Wallet.API.UseCases.Wallets.Commands.CreateWalletCommand
             try
             {
                 var wallet = _mapper.Map<Wallet>(request);
+                var user = await _repositoryManager.ApplicationUser.GetApplicationUser(request.ApplicationUserId);
+                switch (user.userType)
+                {
+                    case UserType.Customer:
+                        wallet.WalletType = WalletType.WalletForCustomer;
+                        break;
+                    case UserType.RechargePoint:
+                        wallet.WalletType = WalletType.WalletForRechargePoint;
+                        break;
+                    case UserType.PaymentService:
+                        wallet.WalletType = WalletType.WalletForPaymentService;
+                        break;
+                }
+                wallet.ApplicationUserId = request.ApplicationUserId;
                 _repositoryManager.WalletRepository.CreateWallet(wallet);
                 await _repositoryManager.SaveAsync();
                 response.Data = true;

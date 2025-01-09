@@ -11,7 +11,7 @@ namespace E_Wallet.API.UseCases.Wallets.Commands.CreateWalletCommand
 {
     public class CreateWalletCommand : IRequest<BaseResponse<bool>>
     {
-        public int? CustomerId { get; set; }
+        public string? ApplicationUserId { get; set; }
         public CurrencyType? Currency { get; set; }
     }
 }

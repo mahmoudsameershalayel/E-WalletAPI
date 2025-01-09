@@ -22,6 +22,7 @@ using System.Text;
 using System.Threading.Tasks;
 using E_Wallet.API.UseCases.DTOs.AuthDTOs;
 using E_Wallet.API.UseCases.DTOs.ApplicationUserDTOs;
+using E_Wallet.API.Data.Enums;
 
 namespace E_Wallet.API.Service
 {
@@ -62,7 +63,7 @@ namespace E_Wallet.API.Service
             {
                 ApplicationUserId = UserId,
             };
-            _repositoryManager.ApplicationUser.CreateCustomer(customer);
+            _repositoryManager.CustomerRepository.CreateCustomer(customer);
             _repositoryManager.SaveAsync();
         }
 
@@ -179,7 +180,7 @@ namespace E_Wallet.API.Service
 
         public async Task<bool> IsCustomer(string userId)
         {
-            var customers = await _repositoryManager.ApplicationUser.GetAllCustomersAsync();
+            var customers = await _repositoryManager.CustomerRepository.GetAllCustomersAsync();
             foreach (Customer cust in customers)
             {
                 if (cust.ApplicationUserId.Equals(userId))
@@ -236,6 +237,7 @@ namespace E_Wallet.API.Service
         {
             var user = _mapper.Map<ApplicationUser>(dto);
             user.IsActive = true;
+            user.userType = UserType.Customer;
             var result = await _userManager.CreateAsync(user, dto.Password);
             if (result.Succeeded)
             {

@@ -40,7 +40,7 @@ namespace E_Wallet.API.Infrastructure.Helpers
             CreateMap<Transaction, CreateTransactionCommand>().ReverseMap();
 
             //Wallet Profile
-            CreateMap<Wallet, WalletDto>().ForMember(x => x.CustomerName, o => o.MapFrom(x => x.Customer.ApplicationUser.UserName))
+            CreateMap<Wallet, WalletDto>().ForMember(x => x.CustomerName, o => o.MapFrom(x => x.ApplicationUser.UserName))
                                           .ForMember(x => x.Currency, o => o.MapFrom(x => x.Currency == CurrencyType.Dollar ? "Dollar" : "Euro"))
                                           .ForMember(x => x.CreatedAtDate, o => o.MapFrom(x => x.CreatedAt.Value.ToString("yyyy:MM:dd")))
                                           .ForMember(x => x.CreatedAtTime, o => o.MapFrom(x => x.CreatedAt.Value.ToString("hh:mm tt")))

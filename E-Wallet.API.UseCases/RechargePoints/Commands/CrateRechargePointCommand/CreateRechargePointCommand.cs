@@ -17,5 +17,12 @@ namespace E_Wallet.API.UseCases.RechargePoints.Commands.CrateRechargePointComman
         [Required]
         [Phone(ErrorMessage = "Invalid phone number.")]
         public string? PhoneNumber { get; set; }
+        [Required(ErrorMessage = "Email is required.")]
+        [EmailAddress]
+        public string? Email { get; set; }
+        [Required(ErrorMessage = "Username is required.")]
+        public string? UserName { get; set; }
+        [Required(ErrorMessage = "Password is required.")]
+        public string? Password { get; set; }
     }
 }

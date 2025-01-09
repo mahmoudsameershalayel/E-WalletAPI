@@ -23,9 +23,7 @@ namespace E_Wallet.API.UseCases.Wallets.Queries.CheckCustomerWalletQuery
         public async Task<bool> Handle(CheckCustomerWalletQuery request, CancellationToken cancellationToken)
         {
             var response = false;
-            var customer = await _repositoryManager.ApplicationUser.GetCustomerByApplicationUserId(request.ApplicationUserId);
-            if (customer is null) throw new ApplicationUserNotFoundException(request.ApplicationUserId);
-            var wallets = await _repositoryManager.WalletRepository.GetWalletByCustomerId(customer.Id);
+            var wallets = await _repositoryManager.WalletRepository.GetWalletsByApplicationUserId(request.ApplicationUserId);
             if (wallets.Any(w => w.Id == request.WalletId))
             {
                 response = true;

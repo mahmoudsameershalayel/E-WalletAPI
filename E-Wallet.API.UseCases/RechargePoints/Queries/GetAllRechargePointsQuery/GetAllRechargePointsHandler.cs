@@ -26,7 +26,13 @@ namespace E_Wallet.API.UseCases.RechargePoints.Queries.GetAllRechargePointsQuery
         {
             var response = new BaseResponse<IEnumerable<RechargePointDto>>();
             var rechargePoints = await _repositoryManager.RechargePointRepository.GetAllRechargePointsAsync();
-            response.Data = _mapper.Map<List<RechargePointDto>>(rechargePoints);
+            var rechargePointsDto = _mapper.Map<List<RechargePointDto>>(rechargePoints);
+            foreach (var rechargePoint in rechargePointsDto) {
+                var wallets = await _repositoryManager.WalletRepository.GetWalletsByApplicationUserId(rechargePoint.ApplicationUserId);
+                var walletsDto = _mapper.Map<IEnumerable<WalletDto>>(wallets);
+                rechargePoint.wallets = walletsDto;
+            }
+            response.Data = rechargePointsDto;
             response.IsSuccess = true;
             response.Message = "All Recharge Points Recieved successfully";
             return response;

@@ -10,7 +10,7 @@ namespace E_Wallet.API.Contracts.TransactionRepositories
     public interface ITransactionRepository
     {
         public Task<IEnumerable<Transaction>> GetAllTransactionsAsync();
-        public Task<IEnumerable<Transaction>> GetTransactionsHistoryForCustomer(int customerId);
+        public Task<IEnumerable<Transaction>> GetTransactionsHistoryForWallet(int walletId);
         public Task<Transaction> GetTransactionByIdAsync(int id);
         public void CreateTransaction(Transaction transaction);
         public void UpdateTransaction(Transaction transaction);

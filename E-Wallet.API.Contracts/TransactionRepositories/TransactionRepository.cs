@@ -25,7 +25,7 @@ namespace E_Wallet.API.Contracts.TransactionRepositories
         public async Task<Transaction> GetTransactionByIdAsync(int id) => await FindByCondition(x => x.Id == id).FirstOrDefaultAsync();
 
 
-        public async Task<IEnumerable<Transaction>> GetTransactionsHistoryForCustomer(int customerId) => await FindByCondition(x => x.Wallet.CustomerId == customerId).Include(x => x.Wallet).ToListAsync();
+        public async Task<IEnumerable<Transaction>> GetTransactionsHistoryForWallet(int walletId) => await FindByCondition(x => x.Wallet.Id == walletId).Include(x => x.Wallet).ToListAsync();
 
 
         public void UpdateTransaction(Transaction transaction) => Update(transaction);

@@ -10,10 +10,12 @@ namespace E_Wallet.API.Data.DBEntities
     public class Wallet
     {
         public int Id { get; set; }
-        public int? CustomerId { get; set; }
-        public Customer? Customer { get; set; }
+        public string? ApplicationUserId { get; set; }
+        public ApplicationUser? ApplicationUser { get; set; }
+        public WalletType? WalletType { get; set; }
         public CurrencyType? Currency { get; set; }
         public double Balance { get; set; }
+        public IEnumerable<Recharge> Recharges { get; set; } = new List<Recharge>();
         public DateTime? CreatedAt { get; set; } = DateTime.Now;
         public DateTime? UpdatedAt { get; set; } = DateTime.Now;
         public IEnumerable<Transaction> Transactions { get; set; } = new List<Transaction>();

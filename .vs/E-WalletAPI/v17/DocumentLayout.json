@@ -3,72 +3,64 @@
   "WorkspaceRootPath": "D:\\E-WalletAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\walletrepositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\walletrepositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\rechargepointdtos\\rechargepointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\rechargepointdtos\\rechargepointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\walletrepositories\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\walletrepositories\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|d:\\e-walletapi\\e-wallet.api.contracts\\rechargepointrepositories\\rechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\rechargepointrepositories\\rechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\dtos\\transactiondtos\\makepaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\transactiondtos\\makepaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwalletquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwalletquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\transactionrepositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\transactionrepositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\transactionrepositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\transactionrepositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\wallets\\queries\\getwalletsbyapplicationuseridquery\\getwalletbyapplicationuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletsbyapplicationuseridquery\\getwalletbyapplicationuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\applicationuserrepositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\applicationuserrepositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\dtos\\transactiondtos\\maketransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\transactiondtos\\maketransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\helpers\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\helpers\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\rechargepointdtos\\rechargepointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\rechargepointdtos\\rechargepointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\rechargepointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,56 +71,152 @@
       "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwalletquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\checkcustomerwalletquery\\checkcustomerwalletquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\wallets\\queries\\getwalletsbyapplicationuseridquery\\getwalletbyapplicationuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletsbyapplicationuseridquery\\getwalletbyapplicationuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\walletrepositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\walletrepositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbycustomeridquery\\getwalletbycustomeridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbycustomeridquery\\getwalletbycustomeridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\dbentities\\rechargepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\rechargepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\recharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\walletdtos\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\walletdtos\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\helpers\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\helpers\\applicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\dtos\\transactiondtos\\rechargemywalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\transactiondtos\\rechargemywalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\transactiondtos\\maketransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\transactiondtos\\maketransferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\transactiondtos\\makepaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\transactiondtos\\makepaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\transactions\\commands\\createtransactioncommand\\createtransactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwalletcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwalletcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\applicationuserrepositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\applicationuserrepositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|d:\\e-walletapi\\e-wallet.api.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|solutionrelative:e-wallet.api.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|d:\\e-walletapi\\e-wallet.api.contracts\\customerrepositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\customerrepositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|d:\\e-walletapi\\e-wallet.api.contracts\\customerrepositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\customerrepositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|d:\\e-walletapi\\e-wallet.api.service\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|solutionrelative:e-wallet.api.service\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|d:\\e-walletapi\\e-wallet.api.contracts\\applicationuserrepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\applicationuserrepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\users\\queries\\checkusertypequery\\checkusertypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\users\\queries\\checkusertypequery\\checkusertypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\users\\queries\\checkusertypequery\\checkusertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\users\\queries\\checkusertypequery\\checkusertypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\users\\queries\\getcustomerbyuseridquery\\getcustomerbyuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\users\\queries\\getcustomerbyuseridquery\\getcustomerbyuseridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbycustomeridquery\\getwalletbycustomeridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbycustomeridquery\\getwalletbycustomeridhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\enums\\wallettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\enums\\wallettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\users\\queries\\getcustomerbyuseridquery\\getcustomerbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\users\\queries\\getcustomerbyuseridquery\\getcustomerbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|d:\\e-walletapi\\e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\configurations\\configureuserrechargepointrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\configurations\\configureuserrechargepointrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|d:\\e-walletapi\\e-wallet.api.data\\configurations\\configureuserpaymentrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\configurations\\configureuserpaymentrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\configurations\\configurewallettransactionrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,6 +231,62 @@
       "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\dtos\\authdtos\\userforauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\userforauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\recharge\\commands\\createrechargecommand\\createrechargehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\recharge\\commands\\createrechargecommand\\createrechargehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\recharge\\commands\\createrechargecommand\\createrechargecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\recharge\\commands\\createrechargecommand\\createrechargecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\rechargerepositories\\rechargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\rechargerepositories\\rechargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\e-wallet.api.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\e-wallet.api.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\enums\\rechargecodestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\enums\\rechargecodestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getwalletbyidquery\\getwalletbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -151,64 +295,12 @@
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getallwalletsquery\\getallwalletshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\commands\\craterechargepointcommand\\createrechargepointcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\rechargepoints\\queries\\getallrechargepointsquery\\getallrechargepointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\rechargepointrepositories\\irechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\rechargepointrepositories\\irechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\rechargepointrepositories\\rechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\rechargepointrepositories\\rechargepointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\rechargepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\rechargepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\queries\\getallwalletsquery\\getallwalletsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\queries\\getallwalletsquery\\getallwalletsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\transactionrepositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\transactionrepositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|D:\\E-WalletAPI\\e-wallet.api.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|solutionrelative:e-wallet.api.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\commands\\deletewalletcommand\\deletewallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\commands\\deletewalletcommand\\deletewallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\payments\\commands\\createpaymentcommand\\createpaymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\wallets\\commands\\createwalletcommand\\createwallethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\payments\\queries\\getpaymentbyidquery\\getpaymentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -217,10 +309,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|D:\\E-WalletAPI\\e-wallet.api.usecases\\payments\\queries\\getpaymentbyidquery\\getpaymentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A4B989-F91E-4A34-96DD-6C0F1E656FE0}|E-Wallet.API.UseCases\\E-Wallet.API.UseCases.csproj|solutionrelative:e-wallet.api.usecases\\payments\\queries\\getpaymentbyidquery\\getpaymentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.contracts\\applicationuserrepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{677DA96F-46D6-46C0-BF6C-F338FD338184}|E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj|solutionrelative:e-wallet.api.contracts\\applicationuserrepositories\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\exceptions\\notfoundexceptions\\walletnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -271,14 +359,6 @@
       "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|D:\\E-WalletAPI\\e-wallet.api.service\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32393984-FC39-4054-9A3A-48E644076DA6}|E-Wallet.API.Service\\E-Wallet.API.Service.csproj|solutionrelative:e-wallet.api.service\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -319,14 +399,6 @@
       "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\paymentdtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|D:\\E-WalletAPI\\e-walletapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{125375AF-C6BB-4E16-9907-3384E7351FBA}|E-WalletAPI\\E-WalletAPI.csproj|solutionrelative:e-walletapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -343,10 +415,6 @@
       "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\applicationuserdtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|D:\\E-WalletAPI\\e-wallet.api.service.contracts\\e-wallet.api.service.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DFF651AD-E1E6-46DF-BAD3-322A4507E6EB}|E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj|solutionrelative:e-wallet.api.service.contracts\\e-wallet.api.service.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -359,16 +427,20 @@
       "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\dtos\\authdtos\\userforauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\userforauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|D:\\E-WalletAPI\\e-wallet.api.infrastructure\\dtos\\authdtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1827908-738F-4901-8976-BBCEC7D7208A}|E-Wallet.API.Infrastructure\\E-Wallet.API.Infrastructure.csproj|solutionrelative:e-wallet.api.infrastructure\\dtos\\authdtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\e-wallet.api.data\\migrations\\20250107175933_addnewfields1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:e-wallet.api.data\\migrations\\20250107175933_addnewfields1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C168E78-9A06-45AA-9813-CAD6D3780811}|E-Wallet.API.Data\\E-Wallet.API.Data.csproj|solutionrelative:E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -378,32 +450,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateTransactionCommand.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBEAAAATAAAA",
+              "DocumentIndex": 3,
+              "Title": "RechargePointRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:07:27.793Z",
+              "WhenOpened": "2025-01-07T18:20:45.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateTransactionHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAIAwwCYAAABtAAAA",
+              "DocumentIndex": 0,
+              "Title": "GetAllRechargePointsHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:07:37.494Z",
+              "WhenOpened": "2025-01-07T18:37:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RechargePointDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:38:48.142Z",
               "EditorCaption": ""
             },
             {
@@ -414,269 +499,269 @@
               "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\WalletRepositories\\IWalletRepository.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\WalletRepositories\\IWalletRepository.cs",
               "RelativeToolTip": "E-Wallet.API.Contracts\\WalletRepositories\\IWalletRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:02:50.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WalletRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "20250109125313_addNewRoles2.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Migrations\\20250109125313_addNewRoles2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:02:23.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Transaction.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Transaction.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Transaction.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Transaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T08:04:42.317Z",
+              "WhenOpened": "2025-01-09T12:53:14.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\TransactionController.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "E-WalletAPI\\Controllers\\TransactionController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAmwEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:19:53.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MakePaymentDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T11:38:20.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RepositoryManager.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryManager.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RepositoryManager.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryManager.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\RepositoryManager.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCUAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:32:56.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RepositoryBase.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryBase.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\RepositoryBase.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:33:11.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TransactionRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBEAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:10:03.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "CheckCustomerWalletHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletHandler.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletHandler.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletHandler.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA5wCEAAAAIAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAhwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T11:16:19.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Wallet.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Wallet.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Wallet.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Wallet.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBIAAABFAAAA",
+              "DocumentIndex": 8,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T08:07:29.406Z",
+              "WhenOpened": "2025-01-07T13:10:12.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationUserRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBIAAABUAAAA",
+              "DocumentIndex": 7,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\TransactionRepositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:32:22.104Z",
+              "WhenOpened": "2025-01-07T13:10:03.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Program.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Program.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Program.cs",
-              "RelativeToolTip": "E-WalletAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T12:57:15.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllRechargePointsQuery.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:37:24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RechargePointController.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\RechargePointController.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\RechargePointController.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\RechargePointController.cs",
-              "RelativeToolTip": "E-WalletAPI\\Controllers\\RechargePointController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowCwAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:36:28.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MakeTransferDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:21:12.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RechargePointDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\RechargePointDTOs\\RechargePointDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:38:48.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WalletController.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\WalletController.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\WalletController.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\WalletController.cs",
-              "RelativeToolTip": "E-WalletAPI\\Controllers\\WalletController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAA5wCoAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:56:09.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "CheckCustomerWalletQuery.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletQuery.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletQuery.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletQuery.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\CheckCustomerWalletQuery\\CheckCustomerWalletQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T11:16:07.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetWalletByIdHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "CreateWalletHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:13:46.468Z",
+              "WhenOpened": "2025-01-07T16:11:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetWalletByApplicationUserIdHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:44:21.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Transaction.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Transaction.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Transaction.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Transaction.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:04:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Customer.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Customer.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Customer.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:50:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationProfile.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
+              "RelativeToolTip": "E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:54:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "E-WalletAPI\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:19:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RechargePointController.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\RechargePointController.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\RechargePointController.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\RechargePointController.cs",
+              "RelativeToolTip": "E-WalletAPI\\Controllers\\RechargePointController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:36:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\WalletController.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "E-WalletAPI\\Controllers\\WalletController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:56:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetWalletByApplicationUserIdQuery.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdQuery.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdQuery.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdQuery.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletsByApplicationUserIdQuery\\GetWalletByApplicationUserIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:44:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\WalletRepositories\\WalletRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:02:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Wallet.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Wallet.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Wallet.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Wallet.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:07:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Payment.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Payment.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Payment.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Payment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:01:20.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "GetWalletByIdQuery.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "RechargePoint.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:13:23.655Z",
+              "WhenOpened": "2025-01-09T12:37:32.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "GetWalletByCustomerIdQuery.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdQuery.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdQuery.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdQuery.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "Recharge.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Recharge.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Recharge.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Recharge.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Recharge.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:10:46.937Z",
+              "WhenOpened": "2025-01-08T17:16:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "E-WalletAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:15:49.079Z",
               "EditorCaption": ""
             },
             {
@@ -687,118 +772,391 @@
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\WalletDTOs\\WalletDto.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\WalletDTOs\\WalletDto.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\WalletDTOs\\WalletDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAyAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:44:24.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ApplicationProfile.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
-              "RelativeToolTip": "E-Wallet.API.Infrastructure\\Helpers\\ApplicationProfile.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAABzAAAA",
+              "DocumentIndex": 25,
+              "Title": "CreateTransactionCommand.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T12:54:22.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IAuthService.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\IAuthService.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IAuthService.cs",
-              "RelativeToolTip": "E-Wallet.API.Service.Contracts\\IAuthService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAMwBYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:36:47.904Z",
+              "WhenOpened": "2025-01-09T12:20:48.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "E-WalletAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA4wB0AAABAAAAA",
+              "Title": "RechargeMyWalletDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\RechargeMyWalletDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\RechargeMyWalletDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\RechargeMyWalletDto.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\RechargeMyWalletDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:35:03.631Z",
+              "WhenOpened": "2025-01-09T12:31:27.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
+              "Title": "MakeTransferDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakeTransferDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:21:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MakePaymentDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\TransactionDTOs\\MakePaymentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:38:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateTransactionHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Transactions\\Commands\\CreateTransactionCommand\\CreateTransactionHandler.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:07:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Enums\\TransactionType.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Enums\\TransactionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:20:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "CreateWalletCommand.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletCommand.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletCommand.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletCommand.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:11:45.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GetWalletByCustomerIdHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetwalletByCustomerIdQuery\\GetWalletByCustomerIdHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABDAAAA",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Service\\AuthService.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service\\AuthService.cs",
+              "RelativeToolTip": "E-Wallet.API.Service\\AuthService.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAMwLsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:11:00.206Z",
+              "WhenOpened": "2025-01-09T10:31:15.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\ApplicationUserRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:32:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\CustomerRepositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\CustomerRepositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\CustomerRepositories\\CustomerRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\CustomerRepositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:41:14.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\CustomerRepositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\CustomerRepositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\CustomerRepositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\CustomerRepositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:44:06.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RepositoryManager.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryManager.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\RepositoryManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:32:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUserService.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service\\ApplicationUserService.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Service\\ApplicationUserService.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service\\ApplicationUserService.cs",
+              "RelativeToolTip": "E-Wallet.API.Service\\ApplicationUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:39:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IApplicationUserService.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
+              "RelativeToolTip": "E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:36:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:31:38.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CheckUserTypeQuery.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeQuery.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeQuery.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeQuery.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:15:31.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CheckUserTypeHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Users\\Queries\\CheckUserTypeQuery\\CheckUserTypeHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:15:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateRechargePointHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:29:00.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateRechargePointCommand.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:28:48.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAE8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:56:37.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Enums\\UserType.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\UserType.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Enums\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:16:25.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "GetCustomerByUserIdHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdHandler.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdHandler.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBsAAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T17:27:04.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
+              "Title": "WalletType.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\WalletType.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Enums\\WalletType.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\WalletType.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Enums\\WalletType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:09:42.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "GetCustomerByUserIdQuery.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdQuery.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdQuery.cs",
               "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdQuery.cs",
               "RelativeToolTip": "E-Wallet.API.UseCases\\Users\\Queries\\GetCustomerByUserIdQuery\\GetCustomerByUserIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T17:26:49.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\ApplicationUser.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\ApplicationUser.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\ApplicationUser.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAtAAAA",
+              "DocumentIndex": 49,
+              "Title": "CreatePaymentHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T13:05:02.505Z",
+              "WhenOpened": "2025-01-07T10:55:46.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
+              "Title": "CreatePaymentCommand.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentCommand.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentCommand.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentCommand.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:03:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserForRegisterDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "RelativeToolTip": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:43:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ConfigureUserRechargePointRelationship.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureUserRechargePointRelationship.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Configurations\\ConfigureUserRechargePointRelationship.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureUserRechargePointRelationship.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Configurations\\ConfigureUserRechargePointRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:13:46.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ConfigureUserPaymentRelationship.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureUserPaymentRelationship.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Configurations\\ConfigureUserPaymentRelationship.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureUserPaymentRelationship.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Configurations\\ConfigureUserPaymentRelationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:12:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
               "Title": "ConfigureWalletTransactionRelationship.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureWalletTransactionRelationship.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Data\\Configurations\\ConfigureWalletTransactionRelationship.cs",
@@ -811,7 +1169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 55,
               "Title": "ConfigureUserCustomerRelationship.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Configurations\\ConfigureUserCustomerRelationship.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Data\\Configurations\\ConfigureUserCustomerRelationship.cs",
@@ -824,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 56,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "E-WalletAPI\\Extensions\\ServiceExtensions.cs",
@@ -837,7 +1195,203 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Program.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Program.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Program.cs",
+              "RelativeToolTip": "E-WalletAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:57:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserForAuthDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
+              "RelativeToolTip": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:43:26.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserForRegisterDto.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:39:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RepositoryBase.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RepositoryBase.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\RepositoryBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:33:11.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateRechargeHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:20:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateRechargeCommand.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeCommand.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeCommand.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeCommand.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Recharge\\Commands\\CreateRechargeCommand\\CreateRechargeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:20:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RechargeRepository.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargeRepositories\\RechargeRepository.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RechargeRepositories\\RechargeRepository.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargeRepositories\\RechargeRepository.cs",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\RechargeRepositories\\RechargeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:25:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "E-Wallet.API.Contracts",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+              "RelativeToolTip": "E-Wallet.API.Contracts\\E-Wallet.API.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T17:25:14.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RechargeCodeStatus.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\RechargeCodeStatus.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Enums\\RechargeCodeStatus.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Enums\\RechargeCodeStatus.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Enums\\RechargeCodeStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:12:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20250108171828_addAdditionalFields1.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Migrations\\20250108171828_addAdditionalFields1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:18:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20250108171335_addAdditionalFields.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs",
+              "RelativeToolTip": "E-Wallet.API.Data\\Migrations\\20250108171335_addAdditionalFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:13:35.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GetAllRechargePointsQuery.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:37:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetWalletByIdHandler.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:13:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetWalletByIdQuery.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
+              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetWalletByIdQuery\\GetWalletByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:13:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\IAuthService.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IAuthService.cs",
+              "RelativeToolTip": "E-Wallet.API.Service.Contracts\\IAuthService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:36:47.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E-WalletAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:35:03.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\appsettings.json",
               "RelativeDocumentMoniker": "E-WalletAPI\\appsettings.json",
@@ -849,7 +1403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 72,
               "Title": "GetAllWalletsHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetAllWalletsQuery\\GetAllWalletsHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetAllWalletsQuery\\GetAllWalletsHandler.cs",
@@ -860,95 +1414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "CreateRechargePointHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointHandler.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:29:00.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CreateRechargePointCommand.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Commands\\CrateRechargePointCommand\\CreateRechargePointCommand.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:28:48.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\PaymentController.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "E-WalletAPI\\Controllers\\PaymentController.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T08:15:49.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IRechargePointRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\IRechargePointRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RechargePointRepositories\\IRechargePointRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\IRechargePointRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\RechargePointRepositories\\IRechargePointRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:21:02.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "GetAllRechargePointsHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\RechargePoints\\Queries\\GetAllRechargePointsQuery\\GetAllRechargePointsHandler.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:37:37.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "RechargePointRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\RechargePointRepositories\\RechargePointRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:20:45.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "UserForRegisterDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T18:39:24.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "RechargePoint.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\RechargePoint.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T08:03:02.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 73,
               "Title": "GetAllWalletsQuery.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Queries\\GetAllWalletsQuery\\GetAllWalletsQuery.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Queries\\GetAllWalletsQuery\\GetAllWalletsQuery.cs",
@@ -959,40 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\TransactionRepositories\\ITransactionRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:10:12.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IRepositoryManager.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\IRepositoryManager.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\IRepositoryManager.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\IRepositoryManager.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\IRepositoryManager.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:32:47.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Service\\AuthService.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service\\AuthService.cs",
-              "RelativeToolTip": "E-Wallet.API.Service\\AuthService.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:36:54.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 74,
               "Title": "DeleteWalletHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\DeleteWalletCommand\\DeleteWalletHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\DeleteWalletCommand\\DeleteWalletHandler.cs",
@@ -1003,7 +1436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 107,
               "Title": "20250107175933_addNewFields1.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Migrations\\20250107175933_addNewFields1.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Data\\Migrations\\20250107175933_addNewFields1.cs",
@@ -1014,29 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CreatePaymentHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Payments\\Commands\\CreatePaymentCommand\\CreatePaymentHandler.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T10:55:46.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "CreateWalletHandler.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
-              "RelativeToolTip": "E-Wallet.API.UseCases\\Wallets\\Commands\\CreateWalletCommand\\CreateWalletHandler.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:11:56.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 75,
               "Title": "GetPaymentByIdQuery.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Queries\\GetPaymentByIdQuery\\GetPaymentByIdQuery.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Queries\\GetPaymentByIdQuery\\GetPaymentByIdQuery.cs",
@@ -1047,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 76,
               "Title": "GetPaymentByIdHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Queries\\GetPaymentByIdQuery\\GetPaymentByIdHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Queries\\GetPaymentByIdQuery\\GetPaymentByIdHandler.cs",
@@ -1058,7 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 77,
               "Title": "WalletNotFoundException.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\Exceptions\\NotFoundExceptions\\WalletNotFoundException.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Data\\Exceptions\\NotFoundExceptions\\WalletNotFoundException.cs",
@@ -1069,18 +1480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IApplicationUserRepository.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
-              "RelativeToolTip": "E-Wallet.API.Contracts\\ApplicationUserRepositories\\IApplicationUserRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:32:35.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 78,
               "Title": "DeleteWalletCommand.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\DeleteWalletCommand\\DeleteWalletCommand.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\DeleteWalletCommand\\DeleteWalletCommand.cs",
@@ -1091,7 +1491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 79,
               "Title": "DeletePaymentCommand.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\DeletePaymentCommand\\DeletePaymentCommand.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\DeletePaymentCommand\\DeletePaymentCommand.cs",
@@ -1102,7 +1502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 80,
               "Title": "UpdateWalletHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\UpdateWalletCommand\\UpdateWalletHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\UpdateWalletCommand\\UpdateWalletHandler.cs",
@@ -1113,7 +1513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 81,
               "Title": "UpdateWalletCommand.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Wallets\\Commands\\UpdateWalletCommand\\UpdateWalletCommand.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Wallets\\Commands\\UpdateWalletCommand\\UpdateWalletCommand.cs",
@@ -1124,7 +1524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 83,
               "Title": "IPaymentRepository.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\PaymentRepositories\\IPaymentRepository.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\PaymentRepositories\\IPaymentRepository.cs",
@@ -1135,7 +1535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 82,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\IRepositoryBase.cs",
@@ -1146,7 +1546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 85,
               "Title": "GetAllPaymentsQuery.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Queries\\GetAllPaymentsQuery\\GetAllPaymentsQuery.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Queries\\GetAllPaymentsQuery\\GetAllPaymentsQuery.cs",
@@ -1157,7 +1557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 84,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service\\ServiceManager.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Service\\ServiceManager.cs",
@@ -1168,7 +1568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 86,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Contracts\\PaymentRepositories\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Contracts\\PaymentRepositories\\PaymentRepository.cs",
@@ -1179,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 87,
               "Title": "GetAllPaymentsHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Queries\\GetAllPaymentsQuery\\GetAllPaymentsHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Queries\\GetAllPaymentsQuery\\GetAllPaymentsHandler.cs",
@@ -1190,7 +1590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 88,
               "Title": "TokenController.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\TokenController.cs",
@@ -1201,29 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "ApplicationUserService.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service\\ApplicationUserService.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Service\\ApplicationUserService.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service\\ApplicationUserService.cs",
-              "RelativeToolTip": "E-Wallet.API.Service\\ApplicationUserService.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:36:18.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "IApplicationUserService.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
-              "RelativeToolTip": "E-Wallet.API.Service.Contracts\\IApplicationUserService.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T11:36:03.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 89,
               "Title": "IServiceManager.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\IServiceManager.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\IServiceManager.cs",
@@ -1234,7 +1612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 91,
               "Title": "ExceptionMiddlewareExtensions.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Extensions\\ExceptionMiddlewareExtensions.cs",
               "RelativeDocumentMoniker": "E-WalletAPI\\Extensions\\ExceptionMiddlewareExtensions.cs",
@@ -1245,7 +1623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 90,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ChangePasswordDto.cs",
@@ -1256,7 +1634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 92,
               "Title": "PaymentForCreateDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentForCreateDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentForCreateDto.cs",
@@ -1267,7 +1645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 93,
               "Title": "UpdatePaymentCommand.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\UpdatePaymentCommand\\UpdatePaymentCommand.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\UpdatePaymentCommand\\UpdatePaymentCommand.cs",
@@ -1278,7 +1656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 94,
               "Title": "UpdatePaymentHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\UpdatePaymentCommand\\UpdatePaymentHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\UpdatePaymentCommand\\UpdatePaymentHandler.cs",
@@ -1289,7 +1667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 95,
               "Title": "DeletePaymentHandler.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.UseCases\\Payments\\Commands\\DeletePaymentCommand\\DeletePaymentHandler.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.UseCases\\Payments\\Commands\\DeletePaymentCommand\\DeletePaymentHandler.cs",
@@ -1300,7 +1678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 96,
               "Title": "ErrorDetails.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\ErrorModels\\ErrorDetails.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\ErrorModels\\ErrorDetails.cs",
@@ -1311,7 +1689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 97,
               "Title": "PaymentForUpdateDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentForUpdateDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentForUpdateDto.cs",
@@ -1322,7 +1700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 98,
               "Title": "PaymentDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\PaymentDTOs\\PaymentDto.cs",
@@ -1333,29 +1711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Customer.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Customer.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Customer.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Customer.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T20:06:39.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Payment.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Data\\DBEntities\\Payment.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Data\\DBEntities\\Payment.cs",
-              "RelativeToolTip": "E-Wallet.API.Data\\DBEntities\\Payment.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T08:01:20.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 99,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-WalletAPI\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "E-WalletAPI\\Controllers\\BaseController.cs",
@@ -1366,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 100,
               "Title": "UpdateCustomerDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\UpdateCustomerDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\UpdateCustomerDto.cs",
@@ -1377,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 101,
               "Title": "UpdateProfileDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\UpdateProfileDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\UpdateProfileDto.cs",
@@ -1388,7 +1744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 102,
               "Title": "ApplicationUserDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\ApplicationUserDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\ApplicationUserDTOs\\ApplicationUserDto.cs",
@@ -1399,7 +1755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 103,
               "Title": "E-Wallet.API.Service.Contracts.csproj",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
               "RelativeDocumentMoniker": "E-Wallet.API.Service.Contracts\\E-Wallet.API.Service.Contracts.csproj",
@@ -1410,18 +1766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "UserForRegisterDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "RelativeToolTip": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForRegisterDto.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T12:43:33.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 104,
               "Title": "ForgetPasswordDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ForgetPasswordDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ForgetPasswordDto.cs",
@@ -1432,7 +1777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 105,
               "Title": "ResetPasswordDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ResetPasswordDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\ResetPasswordDto.cs",
@@ -1443,18 +1788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "UserForAuthDto.cs",
-              "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
-              "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
-              "ToolTip": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
-              "RelativeToolTip": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\UserForAuthDto.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T12:43:26.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 106,
               "Title": "TokenDto.cs",
               "DocumentMoniker": "D:\\E-WalletAPI\\E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\TokenDto.cs",
               "RelativeDocumentMoniker": "E-Wallet.API.Infrastructure\\DTOs\\AuthDTOs\\TokenDto.cs",

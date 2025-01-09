@@ -13,5 +13,7 @@ namespace E_Wallet.API.Data.DBEntities
         public string? Description { get; set; }
         public string? ImageUrl { get; set; }
         public DateTime? CreatedAt { get; set; } = DateTime.Now;
+        public string? ApplicationUserId { get; set; }
+        public ApplicationUser? ApplicationUser { get; set; }
     }
 }

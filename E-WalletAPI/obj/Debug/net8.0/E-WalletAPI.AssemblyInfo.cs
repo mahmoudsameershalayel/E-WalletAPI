@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E-WalletAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20d507bceec6ff346658d3d913c9b530ee6e602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f250497247c08644fd1644caf553620fa523ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("E-WalletAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E-WalletAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

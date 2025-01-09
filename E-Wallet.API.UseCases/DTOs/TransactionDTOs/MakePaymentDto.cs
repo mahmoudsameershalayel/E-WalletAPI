@@ -9,6 +9,7 @@ namespace E_Wallet.API.UseCases.DTOs.TransactionDTOs
     public class MakePaymentDto
     {
         public int YourWalletId { get; set; }
+        public int PaymentServiceWalletId { get; set; }
         public double Amount { get; set; }
         public string? Details { get; set; }
     }

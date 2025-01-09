@@ -115,6 +115,9 @@ namespace E_Wallet.API.Data.Migrations
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
 
+                    b.Property<int>("userType")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("NormalizedEmail")
@@ -133,7 +136,7 @@ namespace E_Wallet.API.Data.Migrations
                             Id = "02174cf0-9412-4cfe-afbf-59f706d72cf6",
                             AccessFailedCount = 0,
                             Address = "admin address",
-                            ConcurrencyStamp = "19f7d9f4-b571-4211-8599-8aa03c7e3b43",
+                            ConcurrencyStamp = "7d67817e-fa79-46e5-902e-54763e0e06d3",
                             Email = "admin@admin.com",
                             EmailConfirmed = true,
                             FirstName = "admin",
@@ -143,13 +146,14 @@ namespace E_Wallet.API.Data.Migrations
                             LocationLong = "test",
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN_10",
-                            PasswordHash = "AQAAAAIAAYagAAAAEOWp04/gbatTwUELro0Pj7nmTN4vlFNzP0awgQukDNpKTWD+i29SLiBsH1gyJhLuHw==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEKjfGlp6GLeGrtoRC7nHwea8s3q9Z8n1PZH6TzhD+d3m485t4Z3MHqCF09sCxEJmkg==",
                             PhoneNumber = "1234567890",
                             PhoneNumberConfirmed = false,
                             RefreshTokenExpiryTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            SecurityStamp = "295cfc48-887d-4448-af44-da7a4aa0620e",
+                            SecurityStamp = "54d57114-402b-4ba0-bb17-1641cdde6500",
                             TwoFactorEnabled = false,
-                            UserName = "admin_10"
+                            UserName = "admin_10",
+                            userType = 1
                         });
                 });
 
@@ -181,6 +185,9 @@ namespace E_Wallet.API.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<DateTime?>("CreatedAt")
                         .HasColumnType("datetime2");
 
@@ -195,7 +202,40 @@ namespace E_Wallet.API.Data.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ApplicationUserId")
+                        .IsUnique()
+                        .HasFilter("[ApplicationUserId] IS NOT NULL");
+
                     b.ToTable("Payments");
+                });
+
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Recharge", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("RechargeCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("RechargeCodeStatus")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("RechargePointId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("WalletId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RechargePointId");
+
+                    b.HasIndex("WalletId");
+
+                    b.ToTable("Recharges");
                 });
 
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.RechargePoint", b =>
@@ -208,6 +248,9 @@ namespace E_Wallet.API.Data.Migrations
 
                     b.Property<string>("Address")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime?>("CreatedAt")
                         .HasColumnType("datetime2");
@@ -225,6 +268,10 @@ namespace E_Wallet.API.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ApplicationUserId")
+                        .IsUnique()
+                        .HasFilter("[ApplicationUserId] IS NOT NULL");
 
                     b.ToTable("RechargePoints");
                 });
@@ -272,6 +319,9 @@ namespace E_Wallet.API.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("ApplicationUserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<double>("Balance")
                         .HasColumnType("float");
 
@@ -281,15 +331,15 @@ namespace E_Wallet.API.Data.Migrations
                     b.Property<int?>("Currency")
                         .HasColumnType("int");
 
-                    b.Property<int?>("CustomerId")
-                        .HasColumnType("int");
-
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<int?>("WalletType")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("CustomerId");
+                    b.HasIndex("ApplicationUserId");
 
                     b.ToTable("Wallets");
                 });
@@ -327,6 +377,20 @@ namespace E_Wallet.API.Data.Migrations
                             ConcurrencyStamp = "341743f0-9427-42de-afbf-59f706d72cf6",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
+                        },
+                        new
+                        {
+                            Id = "478543f7-8ce4-42de-afbf-59f706d72cf6",
+                            ConcurrencyStamp = "478543f7-8ce4-42de-afbf-59f706d72cf6",
+                            Name = "RechargePoint",
+                            NormalizedName = "RECHARGEPOINT"
+                        },
+                        new
+                        {
+                            Id = "786743f1-1ce8-73de-afbf-29f706d72cf6",
+                            ConcurrencyStamp = "786743f1-1ce8-73de-afbf-29f706d72cf6",
+                            Name = "Payment",
+                            NormalizedName = "PAYMENT"
                         },
                         new
                         {
@@ -459,6 +523,39 @@ namespace E_Wallet.API.Data.Migrations
                     b.Navigation("ApplicationUser");
                 });
 
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Payment", b =>
+                {
+                    b.HasOne("E_Wallet.API.Data.DBEntities.ApplicationUser", "ApplicationUser")
+                        .WithOne()
+                        .HasForeignKey("E_Wallet.API.Data.DBEntities.Payment", "ApplicationUserId");
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Recharge", b =>
+                {
+                    b.HasOne("E_Wallet.API.Data.DBEntities.RechargePoint", "RechargePoint")
+                        .WithMany("Recharges")
+                        .HasForeignKey("RechargePointId");
+
+                    b.HasOne("E_Wallet.API.Data.DBEntities.Wallet", "Wallet")
+                        .WithMany("Recharges")
+                        .HasForeignKey("WalletId");
+
+                    b.Navigation("RechargePoint");
+
+                    b.Navigation("Wallet");
+                });
+
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.RechargePoint", b =>
+                {
+                    b.HasOne("E_Wallet.API.Data.DBEntities.ApplicationUser", "ApplicationUser")
+                        .WithOne()
+                        .HasForeignKey("E_Wallet.API.Data.DBEntities.RechargePoint", "ApplicationUserId");
+
+                    b.Navigation("ApplicationUser");
+                });
+
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Transaction", b =>
                 {
                     b.HasOne("E_Wallet.API.Data.DBEntities.Wallet", "RecipientWallet")
@@ -476,11 +573,11 @@ namespace E_Wallet.API.Data.Migrations
 
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Wallet", b =>
                 {
-                    b.HasOne("E_Wallet.API.Data.DBEntities.Customer", "Customer")
+                    b.HasOne("E_Wallet.API.Data.DBEntities.ApplicationUser", "ApplicationUser")
                         .WithMany("Wallets")
-                        .HasForeignKey("CustomerId");
+                        .HasForeignKey("ApplicationUserId");
 
-                    b.Navigation("Customer");
+                    b.Navigation("ApplicationUser");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -534,13 +631,20 @@ namespace E_Wallet.API.Data.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Customer", b =>
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.ApplicationUser", b =>
                 {
                     b.Navigation("Wallets");
                 });
 
+            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.RechargePoint", b =>
+                {
+                    b.Navigation("Recharges");
+                });
+
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Wallet", b =>
                 {
+                    b.Navigation("Recharges");
+
                     b.Navigation("Transactions");
                 });
 #pragma warning restore 612, 618

@@ -26,6 +26,8 @@ namespace E_Wallet.API.UseCases.RechargePoints.Commands.CrateRechargePointComman
             try
             {
                 var rechargePoint = _mapper.Map<RechargePoint>(request);
+                var rechargePointUser = await _repositoryManager.ApplicationUser.CreateApplicationUserAsRechargePoint(request.Email, request.UserName , request.Password);
+                rechargePoint.ApplicationUserId = rechargePointUser.Id;              
                 _repositoryManager.RechargePointRepository.CreateRechargePoint(rechargePoint);
                 await _repositoryManager.SaveAsync();
                 response.Data = true;
