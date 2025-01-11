@@ -25,12 +25,7 @@ namespace E_WalletAPI.Controllers
                 var currentUserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
                 var profile = await _service.AuthService.GetProfileAsync(currentUserId);
 
-                if (await _service.AuthService.IsCustomer(currentUserId))
-                {
-                    var customer = await _service.ApplicationUserService.GetCustomerByApplicationUserId(currentUserId);
-                    var customerProfile = new { customerId = customer.Id, customerInfo = profile };
-                    return Ok(customerProfile);
-                }
+               
                 return Ok(profile);
             }
             catch (Exception ex)

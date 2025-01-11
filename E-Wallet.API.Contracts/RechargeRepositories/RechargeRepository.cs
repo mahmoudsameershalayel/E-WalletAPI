@@ -1,5 +1,6 @@
 ﻿using E_Wallet.API.Data;
 using E_Wallet.API.Data.DBEntities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,15 @@ namespace E_Wallet.API.Contracts.RechargeRepositories
         {
         }
 
+        public void ActivateRechargeCode(string rechargeCode)
+        {
+            throw new NotImplementedException();
+        }
+
         public void CreateRecharge(Recharge recharge) => Create(recharge);
-       
+
+        public void UpdateRecharge(Recharge recharge) => Update(recharge);
+        public async Task<Recharge> GetRechargeByCode(string rechargeCode) => await FindByCondition(x => x.RechargeCode.Equals(rechargeCode)).FirstOrDefaultAsync();
+
     }
 }

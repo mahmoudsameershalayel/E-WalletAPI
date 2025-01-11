@@ -136,7 +136,7 @@ namespace E_Wallet.API.Data.Migrations
                             Id = "02174cf0-9412-4cfe-afbf-59f706d72cf6",
                             AccessFailedCount = 0,
                             Address = "admin address",
-                            ConcurrencyStamp = "7d67817e-fa79-46e5-902e-54763e0e06d3",
+                            ConcurrencyStamp = "c18d522b-38d8-420f-b32c-b52f8fa5a163",
                             Email = "admin@admin.com",
                             EmailConfirmed = true,
                             FirstName = "admin",
@@ -146,11 +146,11 @@ namespace E_Wallet.API.Data.Migrations
                             LocationLong = "test",
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN_10",
-                            PasswordHash = "AQAAAAIAAYagAAAAEKjfGlp6GLeGrtoRC7nHwea8s3q9Z8n1PZH6TzhD+d3m485t4Z3MHqCF09sCxEJmkg==",
+                            PasswordHash = "AQAAAAIAAYagAAAAELrQf12jtSG/bMyTsPiei0JonWWXA7lganjWQBHOsAiQOsWCFvNP4c2ILwYNKJxUlA==",
                             PhoneNumber = "1234567890",
                             PhoneNumberConfirmed = false,
                             RefreshTokenExpiryTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            SecurityStamp = "54d57114-402b-4ba0-bb17-1641cdde6500",
+                            SecurityStamp = "0404ff13-3504-4212-8874-d9c9e79ec49b",
                             TwoFactorEnabled = false,
                             UserName = "admin_10",
                             userType = 1
@@ -217,21 +217,28 @@ namespace E_Wallet.API.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<double?>("Amount")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Details")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsRecharged")
+                        .HasColumnType("bit");
+
                     b.Property<string>("RechargeCode")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int?>("RechargeCodeStatus")
                         .HasColumnType("int");
 
-                    b.Property<int?>("RechargePointId")
+                    b.Property<int?>("RechargeWalletId")
                         .HasColumnType("int");
 
                     b.Property<int?>("WalletId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("RechargePointId");
 
                     b.HasIndex("WalletId");
 
@@ -534,17 +541,9 @@ namespace E_Wallet.API.Data.Migrations
 
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Recharge", b =>
                 {
-                    b.HasOne("E_Wallet.API.Data.DBEntities.RechargePoint", "RechargePoint")
-                        .WithMany("Recharges")
-                        .HasForeignKey("RechargePointId");
-
-                    b.HasOne("E_Wallet.API.Data.DBEntities.Wallet", "Wallet")
+                    b.HasOne("E_Wallet.API.Data.DBEntities.Wallet", null)
                         .WithMany("Recharges")
                         .HasForeignKey("WalletId");
-
-                    b.Navigation("RechargePoint");
-
-                    b.Navigation("Wallet");
                 });
 
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.RechargePoint", b =>
@@ -634,11 +633,6 @@ namespace E_Wallet.API.Data.Migrations
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.ApplicationUser", b =>
                 {
                     b.Navigation("Wallets");
-                });
-
-            modelBuilder.Entity("E_Wallet.API.Data.DBEntities.RechargePoint", b =>
-                {
-                    b.Navigation("Recharges");
                 });
 
             modelBuilder.Entity("E_Wallet.API.Data.DBEntities.Wallet", b =>

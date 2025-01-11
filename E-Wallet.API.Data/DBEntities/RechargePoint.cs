@@ -12,10 +12,9 @@ namespace E_Wallet.API.Data.DBEntities
         public int Id { get; set; }
         public string? Name { get; set; }
         public string? Address { get; set; }
-        public double? LocationLat { get; set; }
+        public double? LocationLat { get; set; }                                    
         public double? LocationLong { get; set; }
         public string? PhoneNumber { get; set; }
-        public IEnumerable<Recharge> Recharges { get; set; } = new List<Recharge>();
         public DateTime? CreatedAt { get; set; } = DateTime.Now;
         public string? ApplicationUserId { get; set; }
         public ApplicationUser? ApplicationUser { get; set; }

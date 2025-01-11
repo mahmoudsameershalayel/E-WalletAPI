@@ -15,6 +15,7 @@ namespace E_Wallet.API.UseCases.DTOs.RechargePointDTOs
         public string? Address { get; set; }
         public double? LocationLat { get; set; }
         public double? LocationLong { get; set; }
+        public string? Email { get; set; }
         public string? PhoneNumber { get; set; }
         public string? CreatedAtDate { get; set; }
         public string? CreatedAtTime { get; set; }

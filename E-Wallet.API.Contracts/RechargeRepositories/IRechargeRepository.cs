@@ -9,6 +9,10 @@ namespace E_Wallet.API.Contracts.RechargeRepositories
 {
     public interface IRechargeRepository
     {
-        public void CreateRecharge(Recharge recharge);
+        Task<Recharge> GetRechargeByCode(string rechargeCode);
+        void CreateRecharge(Recharge recharge);
+        void UpdateRecharge(Recharge recharge);
+        void ActivateRechargeCode(string rechargeCode);
+
     }
 }

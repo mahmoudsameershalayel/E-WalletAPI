@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace E_Wallet.API.UseCases.Wallets.Queries.CheckCustomerWalletQuery
 {
-    public class CheckCustomerWalletQuery : IRequest<bool>
+    public class CheckUserWalletQuery : IRequest<bool>
     {
         public string? ApplicationUserId { get; set; }
         public int WalletId { get; set; }

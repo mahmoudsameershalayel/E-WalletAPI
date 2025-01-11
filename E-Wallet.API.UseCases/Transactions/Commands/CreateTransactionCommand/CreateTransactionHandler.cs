@@ -33,7 +33,7 @@ namespace E_Wallet.API.UseCases.Transactions.Commands.CreateTransactionCommand
                 var recipientWallet = await _repositoryManager.WalletRepository.GetWalletByIdAsync(request.RecipientWalletId);
                 if (wallet.Balance < request.Amount)
                 {
-                    response.Message = "The Balance in your wallet not enough to make transaction!!";
+                    response.Message = "The Balance not enough to make transaction!!";
                 }
                 else if (!wallet.Currency.Equals(recipientWallet.Currency))
                 {
@@ -48,7 +48,7 @@ namespace E_Wallet.API.UseCases.Transactions.Commands.CreateTransactionCommand
                     await _repositoryManager.SaveAsync();
                     response.IsSuccess = true;
                     response.Data = true;
-                    response.Message = "The Transfer operation completed successfullt";
+                    response.Message = "The Transaction operation completed successfullt";
                 }
                 /* switch (request.TransactionType)
                  {

@@ -9,7 +9,9 @@ namespace E_Wallet.API.UseCases.Recharge.Commands.CreateRechargeCommand
 {
     public class CreateRechargeCommand : IRequest<BaseResponse<string>>
     {
+        public int RechargeWalletId { get; set; }
         public int WalletId { get; set; }
-        public int RechargePointId { get; set; }
+        public double Amount { get; set; }
+        public string? Details { get; set; }
     }
 }

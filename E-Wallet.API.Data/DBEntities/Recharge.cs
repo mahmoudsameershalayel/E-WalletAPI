@@ -11,10 +11,11 @@ namespace E_Wallet.API.Data.DBEntities
     {
         public int Id { get; set; }
         public string? RechargeCode { get; set; }
+        public double? Amount { get; set; }
         public RechargeCodeStatus? RechargeCodeStatus { get; set; }
-        public int? RechargePointId { get; set; }
-        public RechargePoint? RechargePoint { get; set; }
         public int? WalletId { get; set; }
-        public Wallet? Wallet { get; set; }
+        public int RechargeWalletId { get; set; }
+        public string? Details { get; set; }
+        public bool IsRecharged { get; set; } = false;
     }
 }

@@ -45,7 +45,8 @@ namespace E_Wallet.API.UseCases.Recharge.Commands.CreateRechargeCommand
 
                     RechargeCode = rechargeCode,
                     RechargeCodeStatus = RechargeCodeStatus.Pending,
-                    RechargePointId = request.RechargePointId,
+                    Amount = request.Amount,
+                    RechargeWalletId = request.RechargeWalletId,
                     WalletId = request.WalletId,
 
                 };
@@ -53,7 +54,7 @@ namespace E_Wallet.API.UseCases.Recharge.Commands.CreateRechargeCommand
                 await _repositoryManager.SaveAsync();
                 response.Data = rechargeCode;
                 response.IsSuccess = true;
-                response.Message = "The Recharge Created Successfully And The Code Status Is Pending You Must Wait Until The Recharge Point Admin Activate Your Code!!";
+                response.Message = "The Recharge Created Successfully And The Code Status Is Pending You Must Go To The Recharge Point Location to Activate Your Code!!";
             }
             catch (Exception ex)
             {
